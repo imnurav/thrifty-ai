@@ -32,10 +32,21 @@ A RESTful API for managing notes with persistent storage using **MongoDB**.
   - Create, Read, Update, Delete (CRUD) operations for notes
   - MongoDB for storage and data persistence
 
-> Also includes `task1.js`, which is the initial logic or setup file related to the first development task in this project.
+
 
 ---
+### 3. DSA: Longest Palindromic Substring
 
+Located in: `notes-api/task1.js`
+
+This task solves a classic problem:
+
+> **Given a string `s`, return the longest palindromic substring.**
+
+#### 📌 Example:
+
+Input:  "babad"
+Output: "bab"  // "aba" is also valid
 ## 🧪 Tech Stack Summary
 
 | Feature         | Chat App               | Notes API                  |
